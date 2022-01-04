@@ -15,10 +15,12 @@ h1{
 .half-width{
     width:50%;
     padding-left: 2%;
+    margin-bottom: 40px;
 
 }
 .half-width img{
     width:80%;
+   
 }
 .link-buttom{
     text-decoration: none;
